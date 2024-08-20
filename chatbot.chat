@@ -1,3 +1,10 @@
-} anser
-Hi or hi = Hi!
-}
+hello=Hello! 👋
+hi=Hi! 👋
+greetings=Greetings! 👋
+how are you=I'm doing well, thanks for asking! 😄
+how's it going=I'm doing well, thanks for asking! 😄
+bye=See you later! 👋
+goodbye=See you later! 👋
+version=I am currently running version $(cat chatbot.ver).
+what is your name=I'm your friendly chatbot! 😄
+what can you do=I can chat with you, answer questions, and tell you my version.
